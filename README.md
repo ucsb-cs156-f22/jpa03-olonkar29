@@ -1,8 +1,8 @@
 # demo-spring-react-example-v2: dsre-v2
 
 Storybook is here:
-* Production: <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs/>
-* QA:  <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs-qa/>
+* Production: <https://ucsb-cs156-f22.github.io/jpa03-olonkar29-docs/>
+* QA:  <https://ucsb-cs156-f22.github.io/jpa03-olonkar29-docs-qa/>
 
 # CodeCov Badge
 
