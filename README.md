@@ -4,7 +4,7 @@ Storybook is here:
 * Production: <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs/>
 * QA:  <https://ucsb-cs156-f22.github.io/STARTER-jpa03-docs-qa/>
 
-# Github Actions Badge
+# CodeCov Badge
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-f22/jpa03-olonkar29/branch/main/graph/badge.svg?token=WSJ3ZR5HMW)](https://codecov.io/gh/ucsb-cs156-f22/jpa03-olonkar29)
 
